@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="32" viewBox="0 0 23 32">
+  <defs>
+    <clipPath id="clip-FACEBOOK">
+      <rect width="23" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="FACEBOOK" clip-path="url(#clip-FACEBOOK)">
+    <g id="Componente_5_2" data-name="Componente 5 – 2" transform="translate(4.373 3)">
+      <path id="Trazado_11" data-name="Trazado 11" d="M88.125,23.975V13.053h3.729l.533-4.262H88.125V6.127c0-1.2.4-2.131,2.131-2.131H92.52V.133C91.987.133,90.655,0,89.19,0c-3.2,0-5.461,2-5.461,5.594v3.2H80v4.262h3.729V23.975Z" transform="translate(-80)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

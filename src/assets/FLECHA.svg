@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97" height="174" viewBox="0 0 97 174">
+  <defs>
+    <clipPath id="clip-FLECHA">
+      <rect width="97" height="174"/>
+    </clipPath>
+  </defs>
+  <g id="FLECHA" clip-path="url(#clip-FLECHA)">
+    <g id="Componente_11_2" data-name="Componente 11 – 2" transform="translate(6.246 5.627)">
+      <path id="Trazado_1" data-name="Trazado 1" d="M257.042,6638.516l-84.851,93.826,84.851,74.37" transform="translate(257.042 6806.712) rotate(180)" fill="none" stroke="#fff" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
